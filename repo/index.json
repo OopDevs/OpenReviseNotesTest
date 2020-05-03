@@ -1,0 +1,14 @@
+{
+    "meta": {
+        "name": "OpenRevise2 Official Test Repository",
+        "owners": {
+            "jkelol111 (Nam)": {
+                "GitHub": "https://github.com/jkelol111"
+            }
+        }
+    },
+    "db": {
+        "schema": 1,
+        "path": "/notes/"
+    }
+}
